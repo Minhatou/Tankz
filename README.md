@@ -1,5 +1,5 @@
 # Tankz
-<br>Bài tập lớn Công nghệ Java
+<h1>Bài tập lớn Công nghệ Java</h1>
 <br>Hướng dẫn chạy:
 <br>Cách 1: Tải thằng file Tankz.jar về mở lên chạy thẳng
 <br>Cách 2: Chạy bằng IDE (ở đây chúng ta sử dụng Eclipse)
