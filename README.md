@@ -15,7 +15,7 @@ Cách 2: Chạy bằng IDE (ở đây chúng ta sử dụng Eclipse)
     
 ![image](https://user-images.githubusercontent.com/90743110/235816509-ab513d37-a873-47d9-9a52-7fd9377a87d5.png)
     
- - Bước 4: Chuột phải lên Project Tankz-main vừa Import > Run As > 1 Java Application rồi cho chạy lớp GameLauncher
+ - Bước 4: Chuột phải lên project Tankz-main vừa Import > Run As > 1 Java Application rồi cho chạy lớp GameLauncher
 ![image](https://user-images.githubusercontent.com/90743110/235816533-beeee5fe-2046-4042-966b-a60bf2de0d00.png)
     
 ![image](https://user-images.githubusercontent.com/90743110/235816556-a298575e-996f-4008-9107-a9931b08c9d6.png) 
